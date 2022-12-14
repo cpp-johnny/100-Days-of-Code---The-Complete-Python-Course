@@ -42,4 +42,4 @@ What's you name?: Boi
 How old are you?: 100
 nice
 ```
-
+## Day 3
