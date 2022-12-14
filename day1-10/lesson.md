@@ -30,15 +30,16 @@ amongus
 
 learnt about input()
  
-````python
+```python
 myName = input("What's you name?: ")
 myAge = input("How old are you?: ")
 print("nice")
 ```
 
-
-
-
-
-
+```
+--> output: 
+What's you name?: #you will tpye your ans
+How old are you?: #you will tpye your ans
+nice
+```
 
