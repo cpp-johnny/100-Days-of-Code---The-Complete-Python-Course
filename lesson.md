@@ -1,4 +1,4 @@
-day 1: 
+## Day 1: 
 
 learnt about print()
 
@@ -22,7 +22,7 @@ amongus""")
  amongus
  ```
 
-day 2:
+## Day 2:
 
 learnt about input()
  
